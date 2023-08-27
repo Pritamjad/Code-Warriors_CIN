@@ -54,8 +54,16 @@ To begin using Study Buddies and making the most of its features, follow these s
 6. **Set Goals and Manage Assignments:** Use the integrated to-do list to set your study goals and manage assignments effectively. This feature promotes efficient time management and organized learning.
 
 ## Project Demo / Prototypes 🎬📸
-<!--  Include photos, screenshots or the site itself in a iframe or video   -->
+Check out our project demo by visiting the [StudyBuddies](https://studybuddies-cin.netlify.com/). Feel free to explore and experience the features firsthand!
 
+![Screenshot 2023-08-27 120723](https://github.com/Pritamjad/Code-Warriors_CIN/assets/111655782/2348a01f-9e3e-459a-aa52-98e697460fe6) 
+![Screenshot 2023-08-27 120808](https://github.com/Pritamjad/Code-Warriors_CIN/assets/111655782/1e8e7342-671f-4a62-8760-c401cb5473fc)
+![Screenshot 2023-08-27 120842](https://github.com/Pritamjad/Code-Warriors_CIN/assets/111655782/a8ccce6e-4a60-47f5-b211-128476e09fe1) 
+![Screenshot 2023-08-27 120920](https://github.com/Pritamjad/Code-Warriors_CIN/assets/111655782/dd502f6d-7266-4965-83ee-b1b53c071f59)
+![Screenshot 2023-08-27 122933](https://github.com/Pritamjad/Code-Warriors_CIN/assets/111655782/4636ffd8-0b79-4680-864c-7f76dcd8dfb4) 
+![Screenshot 2023-08-27 123215](https://github.com/Pritamjad/Code-Warriors_CIN/assets/111655782/eb5b4b70-9c55-4dc1-89a3-0d3c3a96cf56)
+![Screenshot 2023-08-27 123323](https://github.com/Pritamjad/Code-Warriors_CIN/assets/111655782/ef49dacd-665a-4f04-8824-b51f3a432865) 
+![Screenshot 2023-08-27 123424](https://github.com/Pritamjad/Code-Warriors_CIN/assets/111655782/f198dc77-7d53-4c75-8f6d-42d2437be503)
  
 ---
 
